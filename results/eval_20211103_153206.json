@@ -1,0 +1,1 @@
+{"config": "configs/atss/distill_featuremap/atss_r50_fpn_2x_coco_zsd_sfl_fp_be_not_fix_l1_max_pt3_ns_0.1_iou.py", "metric": {"bbox_mAP": 0.407, "bbox_mAP_50": -1.0, "bbox_mAP_75": -1.0, "bbox_mAP_s": 0.236, "bbox_mAP_m": 0.439, "bbox_mAP_l": 0.501, "bbox_mAP_copypaste": "0.407 -1.000 -1.000 0.236 0.439 0.501"}}
